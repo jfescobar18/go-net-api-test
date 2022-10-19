@@ -4,4 +4,5 @@ coverage/
 .vscode
 .git
 .env
+Dockerfile
 .docker-compose.override.yml
