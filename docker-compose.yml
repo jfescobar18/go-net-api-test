@@ -2,7 +2,9 @@ version: '3.2'
 
 services:
   node:
-    build: ./
+    build:
+      context: .
+      dockerfile: Dockerfile
     volumes: 
       - .:/usr/src/
       - /usr/src/node_modules/
