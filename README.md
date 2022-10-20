@@ -8,10 +8,10 @@ This is the API project for Sherpa Broker application
 
 ## Initialization
 
-Create an `.env` file and add your preferred port and mongo conection string
+Create an `.env` file and add 4000 port and mongo connection string
 
 ```
-PORT=0000
+PORT=4000
 MONGO_CONNECTION_STRING=mongodb://
 ```
 
