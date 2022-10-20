@@ -26,7 +26,6 @@ $ docker-compose up --build
 ## ToDo
 
 - Add Tests
-- Implement Swagger
 
 ## License
 [GNU-GPL](https://www.gnu.org/licenses/gpl-3.0.html)
